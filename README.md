@@ -50,7 +50,7 @@ Vivi (Brand Safety Risk): Exhibits negative sentiment 50% above platform average
 
 Language: Python
 
-Libraries: Selenium, Pandas, NumPy, Matplotlib, Pandasql, Seaborn, WordCloud
+Libraries: Selenium, Pandas, NumPy, Matplotlib, Pandasql, Seaborn, WordCloud, VADER
 
 Sentiment Analysis: VADER (Valence Aware Dictionary and sEntiment Reasoner)
 
@@ -66,7 +66,12 @@ Data: Cleaned CSV files from IMDb, Rotten Tomatoes, and YouTube comments
 2. one_piece_rt_df_cleaned.csv
 3. one_piece_yt_df_cleaned.csv
 
-Web Scraping Codes
+Data Cleaning Codes: Mainly used Pandas, Pandasql, and VADER
+1. one_piece_imdb_cleaning.ipynb
+2. one_piece_rt_cleaning.ipynb
+3. one_piece_trailer_en_cleaning.ipynb
+
+Web Scraping Codes: Used Selenium mainly
 1. one_piece_imdb_web_scraping.ipynb
 2. one_piece_rt_web_scraping.ipynb
 3. one_piece_trailer_en_web_scraping.ipynb
