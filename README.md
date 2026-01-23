@@ -59,7 +59,7 @@ Querying: SQL-style logic via Pandas / Pandasql
 ## 📂 Project Structure
 
 EDA: Primary analysis notebook containing data cleaning, visualizations, and strategic insights
-1. one_piece_imdb_rt_eda.ipynb
+1. one_piece_eda.ipynb
 
 Data: Cleaned CSV files from IMDb, Rotten Tomatoes, and YouTube comments
 1. one_piece_imdb_df_cleaned.csv
