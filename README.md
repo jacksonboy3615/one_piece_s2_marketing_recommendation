@@ -14,13 +14,10 @@ This project applies a data-first marketing approach. By analyzing over one year
 
 **Key Results**
 
-Market Readiness: A strong Season 2 Demand Ratio confirms the audience is primed for the March 2026 launch
-
-Top Asset: Nico Robin emerges as the highest-performing character asset, with 54% positive sentiment
-
-Viral Catalyst: Igaram / Baroque Works generate the strongest humor-driven engagement, ideal for top-of-funnel awareness
-
-Strategic Pivot: Current data supports de-prioritizing Vivi in early promotional materials due to active casting-related friction within the community
+1. **Market Readiness:** A strong Season 2 Demand Ratio confirms the audience is primed for the March 2026 launch
+2. **Top Asset:** Nico Robin emerges as the highest-performing character asset, with 54% positive sentiment
+3. **Viral Catalyst:** Igaram / Baroque Works generate the strongest humor-driven engagement, ideal for top-of-funnel awareness
+4. **Strategic Pivot:** Current data supports de-prioritizing Vivi in early promotional materials due to active casting-related friction within the community
 
 ## 📌 Project Overview
 
@@ -30,60 +27,53 @@ The analysis combines historical audience data from IMDb and Rotten Tomatoes wit
 
 ## 🎯 Project Objectives
 
-Retrospective Analysis: Quantify a Season 2 Demand Ratio from Season 1 reviews to validate market readiness
-
-Trailer Engagement Mapping: Measure audience reception to new characters using YouTube like-to-comment ratios and keyword frequency analysis
-
-Strategic Categorization: Segment characters into actionable marketing pillars—Merchandise Leads, Meme Catalysts, and Risk Mitigation
+1. **Retrospective Analysis:** Quantify a Season 2 Demand Ratio from Season 1 reviews to validate market readiness
+2. **Trailer Engagement Mapping:** Measure audience reception to new characters using YouTube like-to-comment ratios and keyword frequency analysis
+3. **Strategic Categorization:** Segment characters into actionable marketing pillars—Merchandise Leads, Meme Catalysts, and Risk Mitigation
 
 ## 📊 Key Findings
 
-Nico Robin (Merchandise Lead): Maintains a 54% positive sentiment, positioning her as the primary candidate for high-value merchandise rollout
-
-Igaram & Baroque Works (Meme Catalysts): Drive the strongest humor-based engagement, making them ideal for viral short-form campaigns (Reels, TikTok)
-
-Vivi (Brand Safety Risk): Exhibits negative sentiment 50% above platform average, indicating a need to limit early high-visibility promotion until audience perception stabilizes
+1. **Nico Robin (Merchandise Lead):** Maintains a 54% positive sentiment, positioning her as the primary candidate for high-value merchandise rollout
+2. **Igaram & Baroque Works (Meme Catalysts):** Drive the strongest humor-based engagement, making them ideal for viral short-form campaigns (Reels, TikTok)
+3. **Vivi (Brand Safety Risk):** Exhibits negative sentiment 50% above platform average, indicating a need to limit early high-visibility promotion until audience perception stabilizes
 
 ## 🛠️ Tech Stack
 
-Language: Python
-
-Libraries: Selenium, Pandas, NumPy, Matplotlib, Pandasql, Seaborn, WordCloud, VADER
-
-Sentiment Analysis: VADER (Valence Aware Dictionary and sEntiment Reasoner)
-
-Querying: SQL-style logic via Pandas / Pandasql
+- **Language:** Python
+- **Libraries:** Selenium, Pandas, NumPy, Matplotlib, Pandasql, Seaborn, WordCloud, VADER
+- **Sentiment Analysis:** VADER (Valence Aware Dictionary and sEntiment Reasoner)
+- **Querying:** SQL-style logic via Pandas / Pandasql
 
 ## 📂 Project Structure
 
-EDA: Primary analysis notebook containing data cleaning, visualizations, and strategic insights
+**EDA:** Primary analysis notebook containing data cleaning, visualizations, and strategic insights
 1. one_piece_eda.ipynb
 
-Data: Cleaned CSV files from IMDb, Rotten Tomatoes, and YouTube comments
+**Data:** Cleaned CSV files from IMDb, Rotten Tomatoes, and YouTube comments
 1. one_piece_imdb_df_cleaned.csv
 2. one_piece_rt_df_cleaned.csv
 3. one_piece_yt_df_cleaned.csv
 
-Data Cleaning Codes: Mainly used Pandas, Pandasql, and VADER
+**Data Cleaning Codes:** Mainly used Pandas, Pandasql, and VADER
 1. one_piece_imdb_cleaning.ipynb
 2. one_piece_rt_cleaning.ipynb
 3. one_piece_trailer_en_cleaning.ipynb
 
-Web Scraping Codes: Used Selenium mainly
+**Web Scraping Codes:** Used Selenium mainly
 1. one_piece_imdb_web_scraping.ipynb
 2. one_piece_rt_web_scraping.ipynb
 3. one_piece_trailer_en_web_scraping.ipynb
 
-*Note: For YouTube comments, I used the YouTube API for more accurate data.
+***Note:** For YouTube comments, I used the YouTube API for more accurate data.
 
-visualizations: Exported charts and word clouds used in the final strategy report
+**visualizations:** Exported charts and word clouds used in the final strategy report
 (Coming up soon)
 
 ## 🚀 Recommended Marketing Actions
 
-1. Lead with Robin: Highly recommended to anchor the first wave of physical merchandise around Nico Robin
-2. Meme-First Social Strategy: Deploy humor-driven content featuring Igaram and Mr. 3 to maximize organic reach
-3. Vivi Sentiment Monitoring: Delay Vivi-centric solo promotions until live-action performance can positively shift the current casting narrative
+1. **Lead with Robin:** Highly recommended to anchor the first wave of physical merchandise around Nico Robin
+2. **Meme-First Social Strategy:** Deploy humor-driven content featuring Igaram and Mr. 3 to maximize organic reach
+3. **Vivi Sentiment Monitoring:** Delay Vivi-centric solo promotions until live-action performance can positively shift the current casting narrative
 
 ## 🔗 Connect with Me
 
