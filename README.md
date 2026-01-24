@@ -2,19 +2,17 @@
 
 ## 📑 Executive Summary
 
-The Challenge
+**The Challenge**
 Live-action anime adaptations historically face high levels of fan skepticism. While One Piece Season 1 successfully broke this pattern, Season 2 introduces a new challenge: onboarding a large ensemble cast (Baroque Works) without losing the momentum and goodwill built in the first season.
 
-The Solution
+**The Solution**
 This project applies a data-first marketing approach. By analyzing over one year of Season 1 audience reviews alongside immediate community reactions to the Season 2 trailer, new cast members are segmented into three actionable marketing tracks:
 
-Revenue Generation – Identifying fan-favorite characters for merchandise prioritization
+- **Revenue Generation:** Identifying fan-favorite characters for merchandise prioritization
+- **Organic Growth:** Identifying “hype engines” that drive viral, social-first engagement
+- **Brand Protection:** Identifying casting-related risks to proactively mitigate negative PR
 
-Organic Growth – Identifying “hype engines” that drive viral, social-first engagement
-
-Brand Protection – Identifying casting-related risks to proactively mitigate negative PR
-
-Key Results
+**Key Results**
 
 Market Readiness: A strong Season 2 Demand Ratio confirms the audience is primed for the March 2026 launch
 
