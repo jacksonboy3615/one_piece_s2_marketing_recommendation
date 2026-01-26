@@ -68,8 +68,24 @@ The analysis combines historical audience data from IMDb and Rotten Tomatoes wit
 
 ***Note:** For YouTube comments, I used the YouTube API for more accurate data.
 
-**visualizations:** Exported charts and word clouds used in the final strategy report
-(Coming up soon)
+**Visualizations:** Exported charts and word clouds used in the final strategy report
+1. Introduction
+   <img width="1159" height="651" alt="slide1" src="https://github.com/user-attachments/assets/fce1885e-4215-4a15-a8f0-3af863d5db09" />
+   
+2. Overview
+   <img width="1161" height="650" alt="slide2" src="https://github.com/user-attachments/assets/516c358a-fa5a-4ae4-a05a-d5594902041b" />
+
+3. Global Audience's Anticipation of Season 2
+   <img width="1159" height="650" alt="slide3" src="https://github.com/user-attachments/assets/9e500706-7774-46b9-80ec-3a432ceacda0" />
+
+4. Marketing Suggestions Based on Characters
+   <img width="1161" height="651" alt="slide4" src="https://github.com/user-attachments/assets/38424b85-6ce4-4e62-a167-571d413b40f8" />
+
+5. Executive Summary
+   <img width="1161" height="647" alt="slide5" src="https://github.com/user-attachments/assets/ccc92738-a1d6-4e00-b9b7-844e335f7214" />
+
+6. End
+   <img width="1160" height="649" alt="slide6" src="https://github.com/user-attachments/assets/17a55e89-f328-4a93-b5d8-92aff5b0cb53" />
 
 ## 🚀 Recommended Marketing Actions
 
