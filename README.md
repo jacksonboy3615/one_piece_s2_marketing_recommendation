@@ -1,4 +1,4 @@
-# One Piece Season 2: Sentiment-Led Marketing Strategy & Character Rollout Insights
+<img width="1161" height="651" alt="Slide 6" src="https://github.com/user-attachments/assets/b1de3203-2a5b-4699-bb10-3d2e84997516" /># One Piece Season 2: Sentiment-Led Marketing Strategy & Character Rollout Insights
 
 ## 📑 Executive Summary
 
@@ -70,22 +70,22 @@ The analysis combines historical audience data from IMDb and Rotten Tomatoes wit
 
 **Visualizations:** Exported charts and word clouds used in the final strategy report
 1. Introduction
-   <img width="1159" height="651" alt="slide1" src="https://github.com/user-attachments/assets/fce1885e-4215-4a15-a8f0-3af863d5db09" />
+   <img width="1163" height="653" alt="Slide1" src="https://github.com/user-attachments/assets/0cb46c1a-a8a0-4147-abda-08445924894f" />
    
 2. Overview
-   <img width="1161" height="650" alt="slide2" src="https://github.com/user-attachments/assets/516c358a-fa5a-4ae4-a05a-d5594902041b" />
+   <img width="1160" height="650" alt="Slide2" src="https://github.com/user-attachments/assets/9767e837-aec2-4691-915e-620630782241" />
 
 3. Global Audience's Anticipation of Season 2
-   <img width="1159" height="650" alt="slide3" src="https://github.com/user-attachments/assets/9e500706-7774-46b9-80ec-3a432ceacda0" />
+   <img width="1158" height="650" alt="Slide3" src="https://github.com/user-attachments/assets/dd119fe9-61c8-4c02-9e1d-d9d69cc9dfd4" />
 
 4. Marketing Suggestions Based on Characters
-   <img width="1161" height="651" alt="slide4" src="https://github.com/user-attachments/assets/38424b85-6ce4-4e62-a167-571d413b40f8" />
+   <img width="1159" height="650" alt="Slide4" src="https://github.com/user-attachments/assets/7fd3c392-7ec5-4c3a-b0ef-24eb0219150f" />
 
 5. Executive Summary
-   <img width="1161" height="647" alt="slide5" src="https://github.com/user-attachments/assets/ccc92738-a1d6-4e00-b9b7-844e335f7214" />
+   <img width="1161" height="648" alt="Slide5" src="https://github.com/user-attachments/assets/006af413-44a6-45c0-975f-4325ccfbe016" />
 
 6. End
-   <img width="1160" height="649" alt="slide6" src="https://github.com/user-attachments/assets/17a55e89-f328-4a93-b5d8-92aff5b0cb53" />
+   <img width="1161" height="651" alt="Slide 6" src="https://github.com/user-attachments/assets/07e451eb-5bbf-49db-889d-3530d631cf0f" />
 
 ## 🚀 Recommended Marketing Actions
 
