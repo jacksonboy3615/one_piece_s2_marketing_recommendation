@@ -1,4 +1,4 @@
-<img width="1161" height="651" alt="Slide 6" src="https://github.com/user-attachments/assets/b1de3203-2a5b-4699-bb10-3d2e84997516" /># One Piece Season 2: Sentiment-Led Marketing Strategy & Character Rollout Insights
+# One Piece Season 2: Sentiment-Led Marketing Strategy & Character Rollout Insights
 
 ## 📑 Executive Summary
 
